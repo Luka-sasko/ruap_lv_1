@@ -1,1 +1,1 @@
-# ruap_lv_1
+Moj repozitorij za kolegij RUAP
