@@ -1,0 +1,1 @@
+print("Pozdrav, Luka Šaško")
